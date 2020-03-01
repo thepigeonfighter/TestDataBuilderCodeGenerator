@@ -18,3 +18,7 @@ This little console app takes some of the tedium out of creating data builder ob
 5. Press enter to convert.
 6. The Builder Class is now copied to your clipboard.
 7. Paste contents into desired destination file.
+
+
+#### Extras
+You can access the Base Builder<T> class through the TestDataBuilderGenerator.exe by selecting option 1 from the option list. Doing this will copy the base class to your clipboard so you don't have to re-write it for every project. 
